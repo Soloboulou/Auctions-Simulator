@@ -1,0 +1,5 @@
+<project name="AuctionProject">
+        <target name="compile">
+           <javac srcdir="auction/project" destdir="classes" />
+        </target>
+</project>
