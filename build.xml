@@ -1,5 +1,5 @@
 <project name="AuctionProject">
-        <target name="compile">
+        <target name="test">
            <javac srcdir="auction/project" destdir="classes" />
         </target>
 </project>
