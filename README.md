@@ -11,4 +11,4 @@ The aim of the project was to implement the most popular auction protocols and t
 -	First-price sealed bid,
 - Second-price sealed bid.<br>
 In addition, a complete GUI was implemented in order to help the user to observe the bidders’ strategies and the overall Auction’s flow. Moreover, as regarding the English Auction we implemented a strategy for the bidders.
- <br><br><br> The project was succesfully evalueted in February 2017 with score <b>2 /2</b>
+ <br><br><br> The project was succesfully evaluated in February 2017 with score <b>2 /2</b>
